@@ -22,7 +22,7 @@ Dataset Source Link: [kaggle dataset](https://www.kaggle.com/datasets/salader/do
    
 2. Clone the repository
 ```
-git clone https://github.com/priyanshudutta04/CatsVsDogs.git
+git clone https://github.com/priyanshudutta04/Cats-Vs-Dogs.git
 ```
 
 3. Install dependencies

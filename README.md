@@ -12,7 +12,7 @@ Classifying whether images contain a dog or a cat is straightforward for humans 
 
 ## Data
 
-The dtataset used is the kaggle's `Dogs vs Cats` dataset, which consists of thousands of images of cats and dogs.
+The datataset used is the kaggle's `Dogs vs Cats` dataset, which consists of thousands of images of cats and dogs.
 
 Dataset Source Link: [kaggle dataset](https://www.kaggle.com/datasets/salader/dogs-vs-cats)
 
